@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const outputDiv = document.getElementById('output');
 
     // Configuration - Change this to your deployed server URL in production
-    const BACKEND_URL = 'http://127.0.0.1:5000/reverse';
+    const BACKEND_URL = 'https://domo-testing.onrender.com/reverse';
 
     sendBtn.addEventListener('click', async () => {
         const text = textInput.value;
