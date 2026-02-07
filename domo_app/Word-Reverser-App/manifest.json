@@ -1,0 +1,12 @@
+{
+  "name": "Word Reverser App",
+  "version": "1.0.0",
+  "id": "2e687b8f-6adb-4d6c-8a47-aea3c5a938e6",
+  "description": "A simple app to reverse words using an external Python backend.",
+  "sizing": {
+    "width": 1,
+    "height": 1
+  },
+  "fileName": "manifest.json",
+  "datasetsMapping": []
+}
